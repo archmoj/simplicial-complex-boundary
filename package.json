@@ -8,7 +8,7 @@
     "test": "test"
   },
   "dependencies": {
-    "boundary-cells": "^2.0.0",
+    "boundary-cells": "^2.0.2",
     "reduce-simplicial-complex": "^1.0.0"
   },
   "devDependencies": {
